@@ -33,12 +33,24 @@ iPhone try-hard jean shorts.
 
 Syntax highlighting with Solarized theme.
 
-{% highlight ruby %}
-class User < ActiveRecord::Base
-  attr_accessible :email, :name
+{% highlight java %}
+public class Die
+{   public static final int DEFAULT_SIDES = 6;
 
-  ... tons of other crap ...
+    private static Random ourRandNumGen = new Random();
 
-end
+    private final int iMyNumSides;
+    private int iMyResult;
+
+
+    /**
+     * Default constructor.<p>
+     * pre: none<br>
+     * post: getNumSides() = DEFAULT_SIDES, getResult() = 1
+     */
+    public Die()
+    {   this(DEFAULT_SIDES);
+    }
+}
 
 {% endhighlight %}
