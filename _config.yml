@@ -1,5 +1,6 @@
 # General Jekyll Config
 highlighter: pygments.rb
-url: http://example.com
+url: https://justiceadamsuni.github.io
+baseurl: /Math-Club-Website
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
