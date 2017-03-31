@@ -3,4 +3,4 @@ highlighter: pygments.rb
 url: https://justiceadamsuni.github.io
 baseurl: /Math-Club-Website
 lsi: false
-exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock, vendor]
