@@ -11,7 +11,7 @@ To download and run a localy hosted server using jekyll just clone the repo and 
 Need help? reach out to me!
 
 You can view the current state of the website here
-https://www.UniDoMath.com
+www.UniDoMath.com
 
 ## Resources
 These are the technologies/tools that were used to build this website
