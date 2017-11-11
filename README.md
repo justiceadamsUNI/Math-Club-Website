@@ -10,8 +10,8 @@ To download and run a localy hosted server using jekyll just clone the repo and 
 
 Need help? reach out to me!
 
-You can view the current state of the website here (in the process of changing domains)
-https://justiceadamsuni.github.io/Math-Club-Website/
+You can view the current state of the website here
+https://www.UniDoMath.com
 
 ## Resources
 These are the technologies/tools that were used to build this website
@@ -24,3 +24,4 @@ These are the technologies/tools that were used to build this website
 * [Jekyll - a simple, blog-aware, static site generator perfect for personal, project, or organization sites.](https://jekyllrb.com/)
 * [HTML Proofer - a set of tests to validate your HTML output](https://github.com/gjtorikian/html-proofer)
 * [Travis CI - a hosted, distributed continuous integration service used to build and test software projects hosted at GitHub](https://travis-ci.com/)
+* [GoDaddy](https://www.godaddy.com/): Domain purchasing company. Used to purchase and control www.UniDoMath.com
