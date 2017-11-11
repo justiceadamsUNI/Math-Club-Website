@@ -24,4 +24,4 @@ These are the technologies/tools that were used to build this website
 * [Jekyll - a simple, blog-aware, static site generator perfect for personal, project, or organization sites.](https://jekyllrb.com/)
 * [HTML Proofer - a set of tests to validate your HTML output](https://github.com/gjtorikian/html-proofer)
 * [Travis CI - a hosted, distributed continuous integration service used to build and test software projects hosted at GitHub](https://travis-ci.com/)
-* [GoDaddy](https://www.godaddy.com/): Domain purchasing company. Used to purchase and control www.UniDoMath.com
+* [GoDaddy - Domain purchasing company. Used to purchase and control www.UniDoMath.com](https://www.godaddy.com/)
